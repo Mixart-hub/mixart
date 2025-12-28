@@ -1,0 +1,189 @@
+🚀 Mixart Admin Panel ishga tushmoqda...
+🌐 http://46.101.172.299:5000
+📱 Bot bilan integratsiya
+ * Serving Flask app 'simple_admin'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://46.101.172.209:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 115-915-773
+84.54.84.82 - - [25/Dec/2025 22:29:26] "GET / HTTP/1.1" 200 -
+84.54.84.82 - - [25/Dec/2025 22:29:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+84.54.84.82 - - [25/Dec/2025 22:29:37] "GET /products HTTP/1.1" 200 -
+84.54.84.82 - - [25/Dec/2025 22:29:58] "GET / HTTP/1.1" 200 -
+84.54.84.82 - - [25/Dec/2025 22:29:59] "GET /stats HTTP/1.1" 200 -
+84.54.84.82 - - [25/Dec/2025 22:30:05] "GET / HTTP/1.1" 200 -
+84.54.84.82 - - [25/Dec/2025 22:30:06] "GET /orders HTTP/1.1" 200 -
+84.54.84.82 - - [25/Dec/2025 22:30:09] "GET / HTTP/1.1" 200 -
+84.54.84.82 - - [25/Dec/2025 22:30:14] "GET /products HTTP/1.1" 200 -
+84.54.84.82 - - [25/Dec/2025 22:30:22] "GET /products HTTP/1.1" 200 -
+84.54.84.82 - - [25/Dec/2025 22:30:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+84.54.84.82 - - [25/Dec/2025 22:30:36] "GET / HTTP/1.1" 200 -
+84.54.84.82 - - [25/Dec/2025 22:30:39] "GET /orders HTTP/1.1" 200 -
+84.54.84.82 - - [25/Dec/2025 22:30:43] "GET /stats HTTP/1.1" 200 -
+84.54.84.82 - - [25/Dec/2025 22:30:45] "GET /products HTTP/1.1" 200 -
+84.54.84.82 - - [25/Dec/2025 22:30:59] "GET / HTTP/1.1" 200 -
+78.88.188.94 - - [25/Dec/2025 23:21:44] "GET / HTTP/1.0" 200 -
+205.210.31.214 - - [26/Dec/2025 00:10:42] "GET / HTTP/1.0" 200 -
+206.168.34.46 - - [26/Dec/2025 01:14:36] code 400, message Bad request version ('À\x14À')
+206.168.34.46 - - [26/Dec/2025 01:14:36] "[31m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03Lè\x04\x85n¼\x07Îj1­=n@ø\x9aÒ\x94Ë"ÁdÁ\x87}YÞÚ\x03Màh IÕî(\x84O*n\x1c\x8bs/!ÓDµ\x1bÆOYU(iñ79äE\x14\x85\x81J\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À[0m" 400 -
+206.168.34.46 - - [26/Dec/2025 01:14:39] "GET / HTTP/1.1" 200 -
+206.168.34.46 - - [26/Dec/2025 01:14:44] code 400, message Bad request version ('\x9bÎ#\x04Æã]ÿëß\x9aîÑ©\x00ëî\x9fOÇJ\x91')
+206.168.34.46 - - [26/Dec/2025 01:14:44] "[31m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03w2t\x04ñné%Øfð\x1f&##\x84¤ ø~½ÞiãÒ>¹ï \x9d£Ñ êÃè\x13\x85\x9bÎ#\x04Æã]ÿëß\x9aîÑ©\x00ëî\x9fOÇJ\x91[0m" 400 -
+206.168.34.46 - - [26/Dec/2025 01:14:44] "GET / HTTP/1.1" 200 -
+206.168.34.46 - - [26/Dec/2025 01:14:44] code 505, message Invalid HTTP version (2.0)
+206.168.34.46 - - [26/Dec/2025 01:14:44] "[35m[1mPRI * HTTP/2.0[0m" 505 -
+206.168.34.46 - - [26/Dec/2025 01:14:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+206.168.34.46 - - [26/Dec/2025 01:14:48] code 400, message Bad request version ('À\x14À')
+206.168.34.46 - - [26/Dec/2025 01:14:48] "[31m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03 \x8ct\x04E¹\x1cÊî\x93\x04*£Ôû\x06pÜÜSÙU\x91H7\x82\x90\x04Ä¶k\x03 l¹\x0d\x0b\x97\x08¸µ3\x05u\x8b¢Äe\x8eì¨\x0b!×|\x94ÁV¡\x13×\x10\x83\x01å\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À[0m" 400 -
+206.168.34.46 - - [26/Dec/2025 01:14:48] "[33mGET /login HTTP/1.1[0m" 404 -
+167.94.146.58 - - [26/Dec/2025 01:25:20] code 400, message Bad request version ('àäA¥\x95õj\x97Ùº¢´\x8cm\x0f')
+167.94.146.58 - - [26/Dec/2025 01:25:20] "[31m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03h´E!¶\x830é\x93¨ª1r2,æ}?E£\x92<\x00Ô\x94³\x92Éì¨\x09Û àäA¥\x95õj\x97Ùº¢´\x8cm\x0f[0m" 400 -
+167.94.146.58 - - [26/Dec/2025 01:25:23] "GET / HTTP/1.1" 200 -
+167.94.146.58 - - [26/Dec/2025 01:25:27] code 400, message Bad request version ('À\x14À')
+167.94.146.58 - - [26/Dec/2025 01:25:27] "[31m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03\x10¹½$·8ñ_è7GÕù¾S\x06eûS.É\x87L1¡á\x168J§C\x1c \x9d{±"\x1e@\x03\x05\x16ú¿çÆ\x0fq\x1aösRcî\x7f¯Æ-~Pv¿ç»\x88\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À[0m" 400 -
+167.94.146.58 - - [26/Dec/2025 01:25:27] "GET / HTTP/1.1" 200 -
+167.94.146.58 - - [26/Dec/2025 01:25:27] code 505, message Invalid HTTP version (2.0)
+167.94.146.58 - - [26/Dec/2025 01:25:27] "[35m[1mPRI * HTTP/2.0[0m" 505 -
+167.94.146.58 - - [26/Dec/2025 01:25:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+167.94.146.58 - - [26/Dec/2025 01:25:30] code 400, message Bad request version ('À\x14À')
+167.94.146.58 - - [26/Dec/2025 01:25:30] "[31m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03ÁåÜg\x9d\x06ìpF\x93Îºq6Ûz3ÀÛôq~ê\x1fìÙ3Ã"ôæ¼ ï8R2>hQ&\x90w\x0biV{5â\\îQå\x1fáZ\x8de¢ô,KÎáJ\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À[0m" 400 -
+167.94.146.58 - - [26/Dec/2025 01:25:30] "[33mGET /security.txt HTTP/1.1[0m" 404 -
+109.105.210.103 - - [26/Dec/2025 06:15:09] "GET / HTTP/1.1" 200 -
+109.105.210.102 - - [26/Dec/2025 06:15:25] "GET / HTTP/1.1" 200 -
+206.189.34.17 - - [26/Dec/2025 06:26:05] code 400, message Bad request version ('À\x14À')
+206.189.34.17 - - [26/Dec/2025 06:26:05] "[31m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x02ê­Nl1Ê¥\x92Ó\x1bØí\x9eã\x14\x91-À\x1bjZÐ{\x89\x9e¡=\x1f\x89\x88Y\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" 400 -
+206.189.34.17 - - [26/Dec/2025 06:26:06] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03')
+206.189.34.17 - - [26/Dec/2025 06:26:06] "[31m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x0cgÔä\x86\x18éG\x93[0m" 400 -
+206.189.34.17 - - [26/Dec/2025 06:26:06] "GET / HTTP/1.1" 200 -
+64.62.197.2 - - [26/Dec/2025 08:08:36] "GET / HTTP/1.1" 200 -
+64.62.197.16 - - [26/Dec/2025 08:08:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+198.235.24.84 - - [26/Dec/2025 08:28:51] "GET / HTTP/1.1" 200 -
+95.214.55.246 - - [26/Dec/2025 09:17:04] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+95.214.55.246 - - [26/Dec/2025 09:17:04] "[33mPOST /_next HTTP/1.1[0m" 404 -
+95.214.55.246 - - [26/Dec/2025 09:17:04] "[33mPOST /api HTTP/1.1[0m" 404 -
+95.214.55.246 - - [26/Dec/2025 09:17:04] "[33mPOST /_next/server HTTP/1.1[0m" 404 -
+95.214.55.246 - - [26/Dec/2025 09:17:04] "[33mPOST /app HTTP/1.1[0m" 404 -
+95.214.55.246 - - [26/Dec/2025 09:17:04] "[33mPOST /api/route HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:09:17] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+193.32.162.157 - - [26/Dec/2025 10:09:20] "[33mPOST /_next HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:09:23] "[33mPOST /_next/flight HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:09:25] "[33mPOST /app HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:09:28] "[33mPOST /api HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:09:30] "[33mPOST /api/login HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:09:34] "[33mPOST /api/health HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:09:36] "[33mPOST /api/route HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:09:41] "[33mPOST /_next/server HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:09:43] "[33mPOST /_next/static HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:09:47] "[33mPOST /_next/data HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:09:49] "[33mPOST /_next/refresh HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:09:51] "[33mPOST /_next/redirect HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:09:53] "[33mPOST /_next/turbopack/flight HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:09:55] "[33mPOST /_next/webpack-hmr HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:09:58] "[33mPOST /_next/server-actions HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:10:01] "[33mPOST /_next/api HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:10:03] "[33mPOST /_next/app HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:10:06] "[33mPOST /_next/files HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:10:10] "[33mPOST /_next/image HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:10:13] "[33mPOST /_react HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:10:15] "[33mPOST /_react/flight HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:10:18] "[33mPOST /_next/static/chunks/app/_app HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:10:20] "[33mPOST /_next/static/chunks/app/_error HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:10:22] "[33mPOST /_next/static/chunks/app/_document HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:10:24] "[33mPOST /_next-live/feedback HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:10:27] "[33mPOST /_next-website/images HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:10:29] "[33mPOST /_next/static/media HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:10:31] "[33mPOST /_next/data/build HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:10:33] "[33mPOST /_next/data/build/en HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:10:36] "[33mPOST /_next/data/production HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:10:38] "[33mPOST /_next/data/production/forms HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:10:43] "[33mPOST /_next/static/chunks HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:10:45] "[33mPOST /_next/static-chunks HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:10:48] "[33mPOST /_next/static/assets HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:10:50] "[33mPOST /_next/static/assets/fonts HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:10:53] "[33mPOST /_next/static/assets/icons HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:10:57] "[33mPOST /_next/static/assets/images HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:11:00] "[33mPOST /_next/static/build HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:11:03] "[33mPOST /_next/static/commons HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:11:07] "[33mPOST /_next/static/css HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:11:10] "[33mPOST /_next/static/css/app HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:11:13] "[33mPOST /_next/static/css/pages HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:11:16] "[33mPOST /_next/static/development HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:11:18] "[33mPOST /_next/static/development/pages HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:11:21] "[33mPOST /_next/static/example HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:11:24] "[33mPOST /_next/static/files HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:11:26] "[33mPOST /_next/static/filles HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:11:28] "[33mPOST /_next/static/fonts HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:11:31] "[33mPOST /_next/static/icon-section HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:11:33] "[33mPOST /_next/static/icons HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:11:37] "[33mPOST /_next/static/image/assets HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:11:40] "[33mPOST /_next/static/image/public HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:11:44] "[33mPOST /_next/static/image/public/images HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:11:46] "[33mPOST /_next/static/image/public/v2/images HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:11:49] "[33mPOST /_next/static/image/src/images/home HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:11:53] "[33mPOST /_next/static/images HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:11:55] "[33mPOST /_next/static/images/icons HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:11:58] "[33mPOST /_next/static/images/icons/filter HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:12:01] "[33mPOST /_next/static/images/icons/payment HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:12:03] "[33mPOST /_next/static/images/illustrations HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:12:06] "[33mPOST /_next/static/img HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:12:08] "[33mPOST /_next/static/js HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:12:12] "[33mPOST /_next/static/js/app HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:12:14] "[33mPOST /_next/static/js/pages HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:12:18] "[33mPOST /_next/static/media/fonts HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:12:22] "[33mPOST /_next/static/media/metadata HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:12:25] "[33mPOST /_next/static/mediasoft-build HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:12:28] "[33mPOST /_next/static/pages HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:12:30] "[33mPOST /_next/static/production HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:12:33] "[33mPOST /_next/static/public HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:12:37] "[33mPOST /_next/static/public/images HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:12:40] "[33mPOST /_next/static/public/static/images HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:12:44] "[33mPOST /_next/static/runtime HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:12:48] "[33mPOST /_next/static/sentry HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:12:50] "[33mPOST /_next/static/sounds HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:12:53] "[33mPOST /_next/static/svg HTTP/1.1[0m" 404 -
+193.32.162.157 - - [26/Dec/2025 10:12:55] "[33mPOST /_next/static/svgs HTTP/1.1[0m" 404 -
+ * Detected change in '/root/mixart/admin/app.py', reloading
+🚀 Mixart Admin Panel ishga tushmoqda...
+🌐 http://46.101.172.299:5000
+📱 Bot bilan integratsiya
+⚠️  Port 5000 band! 5050-portda ishga tushiraman...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 115-915-773
+ * Detected change in '/root/mixart/admin/app.py', reloading
+🚀 Mixart Admin Panel ishga tushmoqda...
+🌐 http://46.101.172.299:5000
+📱 Bot bilan integratsiya
+⚠️  Port 5000 band! 5050-portda ishga tushiraman...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 115-915-773
+ * Detected change in '/root/mixart/admin/app.py', reloading
+🚀 Mixart Admin Panel ishga tushmoqda...
+🌐 http://46.101.172.299:5000
+📱 Bot bilan integratsiya
+⚠️  Port 5000 band! 5050-portda ishga tushiraman...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 115-915-773
+ * Detected change in '/root/mixart/admin/app.py', reloading
+🚀 Mixart Admin Panel ishga tushmoqda...
+🌐 http://46.101.172.299:5000
+📱 Bot bilan integratsiya
+⚠️  Port 5000 band! 5050-portda ishga tushiraman...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 115-915-773
+ * Detected change in '/root/mixart/admin/app.py', reloading
+🚀 Mixart Admin Panel ishga tushmoqda...
+🌐 http://46.101.172.299:5000
+📱 Bot bilan integratsiya
+⚠️  Port 5000 band! 5050-portda ishga tushiraman...
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 115-915-773

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mixart Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body style="background:#111;color:#0f0">
+
+<h2>Mixart Dashboard</h2>
+<p>Users: <span id="users">0</span></p>
+<p>Orders: <span id="orders">0</span></p>
+
+<canvas id="dailyChart"></canvas>
+<canvas id="monthlyChart"></canvas>
+<canvas id="topChart"></canvas>
+
+<script>
+fetch("/api/stats")
+.then(res => res.json())
+.then(data => {
+    document.getElementById("users").innerText = data.users
+    document.getElementById("orders").innerText = data.orders
+
+    new Chart(dailyChart, {
+        type: "line",
+        data: {
+            labels: data.daily.labels,
+            datasets: [{
+                label: "Daily",
+                data: data.daily.values
+            }]
+        }
+    })
+
+    new Chart(monthlyChart, {
+        type: "bar",
+        data: {
+            labels: data.monthly.labels,
+            datasets: [{
+                label: "Monthly",
+                data: data.monthly.values
+            }]
+        }
+    })
+
+    new Chart(topChart, {
+        type: "pie",
+        data: {
+            labels: data.top.labels,
+            datasets: [{
+                data: data.top.values
+            }]
+        }
+    })
+})
+</script>
+
+</body>
+</html>

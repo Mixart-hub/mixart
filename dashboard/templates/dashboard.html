@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <title>Mixart Dashboard</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+        body {
+            background-color: #0f172a;
+            color: #e5e7eb;
+            font-family: Arial, sans-serif;
+        }
+
+        .card {
+            background-color: #020617;
+            border: 1px solid #1e293b;
+        }
+
+        h1, h4 {
+            color: #22c55e;
+        }
+
+        .stats {
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container py-4">
+
+    <h1 class="text-center mb-4">📊 Mixart Statistika Paneli</h1>
+
+    <!-- Statistikalar -->
+    <div class="stats text-center">
+        <p>👤 Foydalanuvchilar: <b>1</b></p>
+        <p>🛒 Buyurtmalar: <b>0</b></p>
+    </div>
+
+    <!-- Kunlik savdo -->
+    <div class="card p-3 mb-4">
+        <h4>📈 Kunlik savdo</h4>
+        <img src="data:image/png;base64,{{ chart }}" class="img-fluid">
+    </div>
+
+    <!-- Oylik savdo -->
+    <div class="card p-3 mb-4">
+        <h4>📅 Oylik savdo</h4>
+        <img src="data:image/png;base64,{{ chart_month }}" class="img-fluid">
+    </div>
+
+    <!-- Top mahsulotlar -->
+    <div class="card p-3">
+        <h4>🏆 Top mahsulotlar</h4>
+        <img src="data:image/png;base64,{{ chart_top }}" class="img-fluid">
+    </div>
+
+</div>
+
+</body>
+</html>

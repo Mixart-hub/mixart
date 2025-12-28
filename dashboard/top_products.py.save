@@ -1,0 +1,17 @@
+nano dashboard/monthly_analytics.pyimport matplotlib.pyplot as plt 
+import os q def top_products_chart():
+    products = ["Telefon", "Noutbuk", "Quloqchin", "Soat"]
+    sales = [300, 200, 180, 150]
+
+    os.makedirs("static", exist_ok=True)
+    path = "static/top_products.png"
+
+    plt.figure()
+    plt.bar(products, sales)
+    plt.title("Top mahsulotlar")
+    plt.xlabel("Mahsulot")
+    plt.ylabel("Sotuv")
+    plt.savefig(path)
+    plt.close()
+
+    return "/static/top_products.png"
